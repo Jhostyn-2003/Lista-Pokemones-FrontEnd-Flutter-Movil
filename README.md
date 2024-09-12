@@ -10,21 +10,18 @@ Un nuevo proyecto de Flutter centrado en mostrar datos de Pokémon e implementar
 - Interfaz de usuario hermosa y clara que sigue las mejores prácticas de Flutter.
 
 ## Screenshots
-### 1. APP de las lista de Pokemon
-![Splash Screen](assets/Docs/app.jpeg)
 
+| APP de las lista de Pokémon  | Splash Screen Animado  |
+|------------------------------|------------------------|
+| <img src="assets/Docs/app.jpeg" width="300"> | <img src="assets/Docs/splash_animado.jpeg" width="300"> |
 
-### 1. Splash Screen Animado
-![Splash Screen](assets/Docs/splash_animado.jpeg)
+| Página de Inicio  | Función de Búsqueda  |
+|-------------------|----------------------|
+| <img src="assets/Docs/inicio%20app.jpeg" width="300"> | <img src="assets/Docs/busqueda.jpeg" width="300"> |
 
-### 2. Página de Inicio
-![Inicio de la App](assets/Docs/inicio%20app.jpeg)
-
-### 3. Función de Búsqueda
-![Búsqueda de Pokémon](assets/Docs/busqueda.jpeg)
-
-### 4. Lista de Pokémon
-![Lista de Pokémon](assets/Docs/lista_pokemones.jpeg)
+| Lista de Pokémon  |
+|-------------------|
+| <img src="assets/Docs/lista_pokemones.jpeg" width="300"> |
 
 ## Getting Started
 
